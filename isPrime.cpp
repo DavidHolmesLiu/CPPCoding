@@ -19,8 +19,6 @@ int main() {
 
         if (isPrime)
             cout << num << " PRIME!!!!" << endl;
-        else
-            cout << num << " NOT prime" << endl;
     }
     
     return 0;
